@@ -6,8 +6,8 @@ a static page for animal zoo
 
 ## Dashboard
 
-![Next](preview 2.png)
+![Next](preview2.png)
 
 ## Speed
 
-![Speed](preview 3.png)
+![Speed](preview3.png)
