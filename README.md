@@ -1,5 +1,5 @@
-a static page for animal zoo
-
+a simple TYPING GAME made in flutter 
+EASY CODE 
 ## Home Page
 
 ![Home](preview1.png)
