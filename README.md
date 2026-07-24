@@ -2,7 +2,7 @@ a static page for animal zoo
 
 ## Home Page
 
-![Home](preview 1.png)
+![Home](preview1.png)
 
 ## Dashboard
 
